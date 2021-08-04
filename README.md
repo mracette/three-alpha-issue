@@ -13,3 +13,13 @@ See issue in `localhost:8080`
 `yarn`
 
 `node src/scripts/render.js`
+
+## Screenshots
+
+### Additive Blending Chrome
+
+![Additive Blending Chrome](./screenshots/additive-blending-chrome.png)
+
+### Additive Blending Puppeteer
+
+![Additive Blending Puppeteer](./screenshots/additive-blending-puppeteer.png)
