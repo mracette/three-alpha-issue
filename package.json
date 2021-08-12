@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "postprocessing": "^6.22.3",
     "puppeteer": "^10.1.0",
     "three": "^0.131.0"
   },
